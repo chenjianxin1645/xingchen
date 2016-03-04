@@ -1,0 +1,27 @@
+*{
+
+}
+.aboutViewContent{
+    margin:10px;
+    padding:20px 0px;
+    border-top:1px solid #9B9CA2;
+    border-bottom:1px solid #9B9CA2;
+}
+.aboutViewContent h4{
+    float: left;
+}
+.aboutContent{
+    margin-top: 20px;
+    margin-left:40px;
+    margin-right:60px;
+}
+.aboutTitle{
+    line-height:5px;
+   // background-color:#0000ff;
+}
+.aboutTitle span{
+    margin:10px 0px 0px 100px;
+}
+.TeamIntro{
+
+}
